@@ -1,6 +1,4 @@
 import { defineConfig } from 'astro/config';
 
-export default defineConfig({
-  output: 'static',
-  logging: 'debug',
-});
+// https://astro.build/config
+export default defineConfig({});
